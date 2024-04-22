@@ -1,0 +1,109 @@
+# Copyright (C) 2024 Maxim Bryk
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor Simply Posts 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/elementor-simply-"
+"posts\n"
+"POT-Creation-Date: 2024-04-22T06:53:45+00:00\n"
+"PO-Revision-Date: 2024-04-22 09:54+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: elementor-simply-posts\n"
+"X-Poedit-Bookmarks: -1,0,-1,-1,-1,-1,-1,-1,-1,-1\n"
+
+#. Plugin Name of the plugin
+msgid "Elementor Simply Posts"
+msgstr "Elementor Прості пости"
+
+#. Plugin URI of the plugin
+#, fuzzy
+#| msgid "https://github.com/massenjoy-full/elementor-simplyposts"
+msgid "https://github.com/massenjoy-full/elementor-simply-posts"
+msgstr "https://github.com/massenjoy-full/elementor-simplyposts"
+
+#. Description of the plugin
+msgid ""
+"Elementor Simply Posts - offers seamless post display in Elementor. Choose "
+"between list and block layouts for effortless content presentation."
+msgstr ""
+"Elementor Simply Posts - пропонує безпроблемне відображення дописів в "
+"Elementor. Вибирайте між макетами списків і блоків для зручного "
+"представлення контенту."
+
+#. Author of the plugin
+msgid "Maxim Bryk"
+msgstr "Брик Максим"
+
+#. Author URI of the plugin
+msgid "https://github.com/massenjoy-full/"
+msgstr "https://github.com/massenjoy-full/"
+
+#: widgets/class-simplypostswidget.php:62
+msgid "Simply Posts"
+msgstr "Прості пости"
+
+#: widgets/class-simplypostswidget.php:155
+#: widgets/class-simplypostswidget.php:393
+msgid "Show Title"
+msgstr "Показати заголовок"
+
+#: widgets/class-simplypostswidget.php:230
+msgid "Post Type"
+msgstr "Тип посту"
+
+#: widgets/class-simplypostswidget.php:241
+msgid "Post Status"
+msgstr "Статус посту"
+
+#: widgets/class-simplypostswidget.php:256
+msgid "Posts Per Page"
+msgstr "Пости на сторінці"
+
+#: widgets/class-simplypostswidget.php:279
+msgid "Post ID"
+msgstr "ІД посту"
+
+#: widgets/class-simplypostswidget.php:280
+msgid "Post Author"
+msgstr "Автор поста"
+
+#: widgets/class-simplypostswidget.php:306
+msgid "Show Pagination"
+msgstr "Показати пагінацію"
+
+#: widgets/class-simplypostswidget.php:375
+msgid "Show Image"
+msgstr "Показати зображення"
+
+#: widgets/class-simplypostswidget.php:465
+msgid "Show Excerpt"
+msgstr "Показати витримку"
+
+#: widgets/class-simplypostswidget.php:481
+msgid "Excerpt Length"
+msgstr "Довжина витягу"
+
+#: widgets/class-simplypostswidget.php:527
+msgid "Open in New Tab"
+msgstr "Відкрити у новій вкладці"
+
+#: widgets/class-simplypostswidget.php:544
+msgid "Show Date"
+msgstr "Показати дату"
+
+#: widgets/class-simplypostswidget.php:560
+msgid "Date Text Color"
+msgstr "Колір тексту дати"
+
+#: widgets/class-simplypostswidget.php:735
+msgid "No posts found."
+msgstr "Не знайдено постів."
+
+#~ msgid "Simply posts for Elementor."
+#~ msgstr "Прості пости для Elementor."

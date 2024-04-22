@@ -1,0 +1,96 @@
+# Copyright (C) 2024 Maxim Bryk
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor Simply Posts 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/elementor-simply-posts\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-22T06:53:45+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: elementor-simply-posts\n"
+
+#. Plugin Name of the plugin
+msgid "Elementor Simply Posts"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/massenjoy-full/elementor-simply-posts"
+msgstr ""
+
+#. Description of the plugin
+msgid "Elementor Simply Posts - offers seamless post display in Elementor. Choose between list and block layouts for effortless content presentation."
+msgstr ""
+
+#. Author of the plugin
+msgid "Maxim Bryk"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/massenjoy-full/"
+msgstr ""
+
+#: widgets/class-simplypostswidget.php:62
+msgid "Simply Posts"
+msgstr ""
+
+#: widgets/class-simplypostswidget.php:155
+#: widgets/class-simplypostswidget.php:393
+msgid "Show Title"
+msgstr ""
+
+#: widgets/class-simplypostswidget.php:230
+msgid "Post Type"
+msgstr ""
+
+#: widgets/class-simplypostswidget.php:241
+msgid "Post Status"
+msgstr ""
+
+#: widgets/class-simplypostswidget.php:256
+msgid "Posts Per Page"
+msgstr ""
+
+#: widgets/class-simplypostswidget.php:279
+msgid "Post ID"
+msgstr ""
+
+#: widgets/class-simplypostswidget.php:280
+msgid "Post Author"
+msgstr ""
+
+#: widgets/class-simplypostswidget.php:306
+msgid "Show Pagination"
+msgstr ""
+
+#: widgets/class-simplypostswidget.php:375
+msgid "Show Image"
+msgstr ""
+
+#: widgets/class-simplypostswidget.php:465
+msgid "Show Excerpt"
+msgstr ""
+
+#: widgets/class-simplypostswidget.php:481
+msgid "Excerpt Length"
+msgstr ""
+
+#: widgets/class-simplypostswidget.php:527
+msgid "Open in New Tab"
+msgstr ""
+
+#: widgets/class-simplypostswidget.php:544
+msgid "Show Date"
+msgstr ""
+
+#: widgets/class-simplypostswidget.php:560
+msgid "Date Text Color"
+msgstr ""
+
+#: widgets/class-simplypostswidget.php:735
+msgid "No posts found."
+msgstr ""
